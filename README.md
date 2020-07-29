@@ -8,3 +8,5 @@ Download JDK from here:
 
 https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 
+No PATH setting or JAVA_HOME setting required.
+
